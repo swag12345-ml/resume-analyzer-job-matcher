@@ -4,6 +4,6 @@ PyPDF2
 scikit-learn
 matplotlib
 spacy
-
+en_core_web_sm
 
 
